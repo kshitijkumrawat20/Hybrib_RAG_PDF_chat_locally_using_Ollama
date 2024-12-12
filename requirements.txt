@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_core
+streamlit 
+faiss
+ollama
+pinecone
+pinecone_text
