@@ -1,0 +1,1 @@
+## add pinecone api key 
